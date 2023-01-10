@@ -1,2 +1,2 @@
 # COVID-Tracker
-A COVID-19 Patient Status tracker made in ReactJS.
+A COVID-19 Patient Status tracker made in ReactJS and ChartJS.
